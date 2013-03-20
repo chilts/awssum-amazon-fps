@@ -57,7 +57,7 @@ var Fps = function(opts) {
 };
 
 // inherit from Amazon
-util.inherits(Fps, amazon.Amazon);
+util.inherits(Fps, amazon.AmazonSignatureV2);
 
 // --------------------------------------------------------------------------------------------------------------------
 // methods we need to implement from amazon.js
