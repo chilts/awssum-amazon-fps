@@ -1,6 +1,6 @@
 {
     "name" : "awssum-amazon-fps",
-    "description" : "NodeJS module to talk to Amazon Flexible Payments Service (FPS).",
+    "description" : "AwsSum plugin for Amazon Flexible Payments Service (FPS).",
     "version" : "1.0.0",
 
     "main" : "awssum-amazon-fps.js",
