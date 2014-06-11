@@ -1,7 +1,7 @@
 {
   "name": "awssum-amazon-fps",
   "description": "AwsSum plugin for Amazon Flexible Payments Service (FPS).",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "main": "awssum-amazon-fps.js",
   "engines": {
     "node": ">= 0.6.0"
