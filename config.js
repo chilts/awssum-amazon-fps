@@ -175,10 +175,10 @@ module.exports = {
         },
     },
 
-    GetTokensByCaller : {
-        url : 'http://docs.amazonwebservices.com/AmazonFPS/latest/FPSAPIReference/GetTokensByCaller.html',
+    GetTokenByCaller : {
+        url : 'http://docs.amazonwebservices.com/AmazonFPS/latest/FPSAPIReference/GetTokenByCaller.html',
         defaults : {
-            Action : 'GetTokensByCaller',
+            Action : 'GetTokenByCaller',
         },
         args : {
             Action          : required,
